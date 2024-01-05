@@ -1,0 +1,12 @@
+nav > ul > li {
+    display: inline;
+    margin: 13px;
+    
+}
+nav li a{
+    text-decoration: none;
+}
+fotter{
+    margin-top: 30px;
+    text-align: 30px;
+}
